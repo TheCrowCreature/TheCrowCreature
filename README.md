@@ -35,5 +35,5 @@ I'm an indie full-stack developer and content creator building my version of the
 <details>
  <summary><h3>👨‍💻 TheCrowCreature's Coding Journey</h3></summary>
    I dont know what to say yet
-[website]: UNKNOWN
-[youtube]: https://www.youtube.com/channel/UCSnyk00afDBXkdFcSgPRYFg
+<br>[website]: UNKNOWN
+<br>[youtube]: https://www.youtube.com/channel/UCSnyk00afDBXkdFcSgPRYFg
