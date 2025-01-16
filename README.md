@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Taymaz Abdi. 👋<br>I’m a programming instructor who is passionate about website design and building Telegram bots with JavaScript, Python, and PHP. 💻<br>Currently, I’m teaching website design and building Telegram bots. 🖥️<br><br>Feel free to ask more about me or search for me! 🔍<br><br>Fun fact: I love coding challenges and always enjoy finding creative solutions to problems, even if it means staying up late! 😎
+Hello! I’m Taymaz Abdi. 👋<br>I’m a programming instructor who is passionate about website design and building Telegram bots with JavaScript, Python, and PHP. 💻<br>Currently, I’m teaching website design and building Telegram bots. 🖥️<br><br>Feel free to ask more about me or search for me! 🔍
 
 
 ## 🌐 Socials:
